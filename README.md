@@ -10,16 +10,8 @@ Create an account at http://openshift.redhat.com/
 
 Create a jbosseap-6.0 application
 
-    rhc app create devoxx -t jbosseap-6 
+    rhc app create devoxx -t jbosseap-6 --from-code https://github.com/eschabell/openshift-devoxx
     
-    cd devoxx
-    
-    git remote add upstream -m master git://github.com/eschabell/openshift-devoxx.git
-    
-    git pull -s recursive -X theirs upstream master
-    
-    git push
-
 That's it, you can now checkout your application at:
 
     http://devoxx-$namespace.rhcloud.com
