@@ -1,7 +1,7 @@
 Devoxx mobile registration app on OpenShift
 ===========================================
 
-This is the Devoxx html5/mboile registration app.
+This is the Devoxx html5 mobile registration app.
 
 
 Install with one click
