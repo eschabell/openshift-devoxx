@@ -6,8 +6,7 @@ This is the Devoxx html5 mobile registration app.
 
 Install with one click
 ----------------------
-[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to
-install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=jbosseap-6&initial_git_url=https://github.com/eschabell/openshift-devoxx.git&name=devoxx)
+[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to  install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=jbosseap-6&initial_git_url=https://github.com/eschabell/openshift-devoxx.git&name=devoxx)
 
 
 Manual setup on OpenShift
