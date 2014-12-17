@@ -3,8 +3,15 @@ Devoxx mobile registration app on OpenShift
 
 This is the Devoxx html5/mboile registration app.
 
-Running on OpenShift
---------------------
+
+Install with one click
+----------------------
+[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to
+install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=jbosseap-6&initial_git_url=https://github.com/eschabell/openshift-devoxx.git&name=devoxx)
+
+
+Manual setup on OpenShift
+-------------------------
 
 Create an account at http://openshift.redhat.com/
 
