@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/masteringxpaas)
+
+
 Devoxx mobile registration app on OpenShift
 ===========================================
 
